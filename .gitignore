@@ -1,0 +1,50 @@
+# Project-specific
+.env.*
+!.env.example
+
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Logs and databases
+*.log
+*.db
+*.sqlite3
+
+# Uploaded files
+uploads/*
+!uploads/.gitkeep
+
+# IDE
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Local databases and logs
+*.db
+*.sqlite3
+*.log
+
+# IDE
+.idea/
+.vscode/
